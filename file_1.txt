@@ -2,3 +2,6 @@ Hello there!
 My name is Louiza Taylor.
 I am 24 years old.
 I am a DAM intern.
+This is line insert 1
+this is line insert 2
+This is line insert 3
